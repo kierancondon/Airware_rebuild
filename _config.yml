@@ -14,6 +14,8 @@ github_username:  jekyll
 #plugins:
 #  - jekyll-feed
 
+permalink: /:year/:month/:day/:title:output_ext
+
 # Tipue search settings
 tipue_search:
   include:
