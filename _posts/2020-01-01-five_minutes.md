@@ -2,7 +2,7 @@
 layout: post
 description:
 categories: [A) Quick Start Guide]
-tags:
+tags: jump
 titles:
   - Make an AirWare website in 5 minutes
   - Create a Github account
